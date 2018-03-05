@@ -1,0 +1,54 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: #111111;
+}
+h1{
+  font-family: 'Londrina Outline', cursive;
+  font-size: 1200%;
+  color: white;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+p{
+  font-family: 'Lora', serif;
+  font-size: 200%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color: white;
+  font-weight: bold;
+}
+#block1{
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+#block2{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 40px;
+  text-align: center;
+}
+button{
+  width: 30%;
+  height: 80px;
+  background: #3498db;
+  border: 0;
+  padding-top: 0;
+  text-align: center;
+  margin: 20px;
+}
+button:hover{
+  background: #555555;
+  transition: 0.5s;
+}
+#usa{
+  background: #e74c3c;
+}
+#usa:hover{
+  background: #3498db;
+}
