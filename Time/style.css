@@ -46,9 +46,3 @@ button:hover{
   background: #555555;
   transition: 0.5s;
 }
-#usa{
-  background: #e74c3c;
-}
-#usa:hover{
-  background: #3498db;
-}
