@@ -33,22 +33,3 @@ p{
   margin-top: 40px;
   text-align: center;
 }
-button{
-  width: 30%;
-  height: 80px;
-  background: #3498db;
-  border: 0;
-  padding-top: 0;
-  text-align: center;
-  margin: 20px;
-}
-button:hover{
-  background: #555555;
-  transition: 0.5s;
-}
-#usa{
-  background: #e74c3c;
-}
-#usa:hover{
-  background: #3498db;
-}
