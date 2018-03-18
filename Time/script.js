@@ -1,4 +1,4 @@
-/ES5
+//ES5
 function printTime(){
   var date = new Date();
   var h = date.getHours();
