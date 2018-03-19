@@ -1,5 +1,5 @@
-//ES5
-function printTime(){
+//ES6
+setInterval(function() {
   var date = new Date();
   var h = date.getHours();
   var m = date.getMinutes();
@@ -10,5 +10,4 @@ function printTime(){
   var seconds = (s < 10 ? "0"+s : s);
 
   document.getElementById("time").innerHTML = hours + " : " + minutes + " : " + seconds;
-}
-setInterval(printTime,1000);
+},1000)
